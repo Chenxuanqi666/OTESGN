@@ -80,6 +80,9 @@ python train.py
 ```
 ---
 
+## Credits
+The code and datasets in this repository are based on [SSEGCN-ABSA](https://github.com/zhangzheng1997/SSEGCN-ABSA), which implements syntactic and semantic enhanced graph convolutional networks for aspect-based sentiment analysis.
+
 ## 📖 Citation
 ```text
  If you find our work helpful, please cite the following paper:
