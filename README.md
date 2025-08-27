@@ -77,3 +77,20 @@ Simply execute:
 
 ```bash
 python train.py
+```
+---
+
+## 📖 Citation
+```text
+ If you find our work helpful, please cite the following paper:
+ {
+    @inproceedings{Liao2025OTESGN,
+    author = {Xinfeng Liao and Xuanqi Chen and Lianxi Wang and Jiahuan Yang and Zhuowei Chen and Ziying Rong},
+    title = {OTESGN: Optimal Transport Enhanced Syntactic-Semantic Graph Networks for Aspect-Based Sentiment Analysis},
+    booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM)},
+    year = {2025},
+    address = {Hyderabad, India},
+    publisher = {IEEE},
+    pages = {to appear}
+}
+```
